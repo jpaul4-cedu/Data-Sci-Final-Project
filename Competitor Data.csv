@@ -1,0 +1,39 @@
+Competitor,Item,Category,Type,Price
+Society,PBR,Beer Can Base,Lager,3
+Society,Miller Lite,Beer Can Base,Lager,4
+Society,Bud Light,Beer Can Base,Lager,4
+Society,Coors Light,Beer Can Base,Lager,4
+Society,Mich Ultra,Beer Can Base,Lager,4
+Society,Yuengling,Beer Can Base,Lager,4
+Society,Corona,Beer Can Base,Mexican Lager,4
+Society,Modelo,Beer Can Base,Mexican Lager,4
+Society,Stone,Beer Can Premium,Mexican Lager,6
+Society,Lagunitas,Beer Can Premium,IPA,6
+Society,Elysian Space Dust,Beer Can Premium,IPA,6
+Society,Elysian Contact Haze,Beer Can Premium,Hazy IPA,6
+Society,Elysian Day Glow,Beer Can Premium,IPA,6
+Society,Victory Sour Monkey,Beer Can Premium,Sour,6
+Society,Victory Golden Monkey,Beer Can Premium,Ale,6
+Society,Scofflaw Pog,Beer Can Premium,IPA,6
+Society,Scofflaw Dirty Beaches,Beer Can Premium,Wheat,6
+Society,Scofflaw Mimosa,Seltzer Can,Seltzer,10
+Society,Scofflaw Seltzer,Seltzer Can,Seltzer,7
+Society,Westbrook White Thai,Beer Can,Belgian,5
+Society,Westbrook Gose,Beer Can,Sour,5
+Society,Westbrook Tiki Time,Beer Can,Sour,10
+Society,Edmund's Sour,Beer Can,Sour,8
+Society,Duclaw Sour Mimosa,Beer Can,Sour,8
+Society,Duclaw Blueberry Wheat,Beer Can,Wheat,6
+Society,Wicked Weed Seasonal Burst,Beer Can,Sour,5
+Society,AV Gose,Beer Can,Sour,5
+Society,AV,Beer Can,Sour,5
+Society,Docs,Cider Can,Cider,6
+Society,Austin Cider,Cider Can,Cider,6
+Society,Truly,Seltzer Can,Seltzer,6
+Society,High Noon,Seltzer Can,Seltzer,7
+Society,Bacardi,Canned Cocktail,Cocktail,7
+Society,Long Drink,Canned Cocktail,Cocktail,6
+Society,Diet Long Drink,Canned Cocktail,Cocktail,6
+Up on the roof,Domestic,Beer Can,Lager,5
+Up on the roof,Import,Beer Can,Lager,7
+Up on the roof,Draft,Draft,Draft,8
